@@ -3,7 +3,7 @@
 # pkg install git
 # pip install requests
 # pip install futures
-# git clone https://github.com/baj007/bokehe
+# git clone https://github.com/jangHubb/bokehe
 # cd bokehe
 # git pull
 # python mnawn.py
